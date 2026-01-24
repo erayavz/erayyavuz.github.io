@@ -10,7 +10,4 @@ image:
     alt: "Abusing GPO Delegation - From WriteDACL to Local Admin via NTLM Relay and SYSVOL Hijacking"
 ---
 
-<h2>Introduction</h2>
-*In Active Directory environments, Group Policy Objects (GPOs) are one of the most powerful management mechanisms. However, when GPO delegation is misconfigured, even users without Domain Admin privileges can achieve severe impact.*
-*This post demonstrates how a single WriteDACL permission on a GPO can be abused to gain local administrator access on a target system - by chaining together NTLM relay, automation abuse, and GPO manipulation using GPOddity.*
-*The entire attack was performed without direct Domain Admin privileges and relied solely on abusing legitimate AD functionality.*
+deneme
