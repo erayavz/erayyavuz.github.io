@@ -218,7 +218,6 @@ exclude:
   - purgecss.js
   - "*.config.js"
   - "package*.json"
-  - _tabs
 
 
 jekyll-archives:
