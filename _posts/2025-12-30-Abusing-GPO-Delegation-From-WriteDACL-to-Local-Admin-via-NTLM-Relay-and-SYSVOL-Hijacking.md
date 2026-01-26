@@ -6,8 +6,9 @@ categories: [AD-Security, Red-Team]
 tags: [writeDACL, Abuse-GPO, AD, Pentesting]
 toc: true
 image:
-    path: /assets/img/1.png
+    path: /assets/abuseGPO_1/1.png
     alt: "Abusing GPO Delegation - From WriteDACL to Local Admin via NTLM Relay and SYSVOL Hijacking"
 ---
 
-deneme
+hack the planet
+*1337*
