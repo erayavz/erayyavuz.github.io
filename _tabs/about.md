@@ -11,9 +11,20 @@ From an early age — and yes, literally since childhood — I’ve always been 
 
 I’ve been working as a professional cybersecurity engineer for nearly six years, with a strong focus on understanding not only how systems work, but how they break. In parallel, I actively volunteer as a cybersecurity instructor at universities, high schools, and various events.
 
+**Certifications:**
+* Certified Threat Hunting Professional - eCTHPv2
+* eJPT
+* eWAPT
+* CEHv10
+* CEHv10 Practical
+* CEHv10 Master
+
+
 **yaşadıkça, oyuna dahiliz^^**
 
 *The views and opinions expressed here do not represent my employer and are solely my own.*
+
+
 
 
 {: .prompt-tip }
