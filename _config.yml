@@ -19,7 +19,7 @@ title: Eray Yavuz # the main title
 tagline: hack, have fun and fight # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  hack, have fun and fight
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -153,7 +153,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: ""
+baseurl: "https://eray.ninja"
 
 # ------------ The following options are not recommended to be modified ------------------
 
@@ -218,6 +218,8 @@ exclude:
   - purgecss.js
   - "*.config.js"
   - "package*.json"
+  - _tabs
+
 
 jekyll-archives:
   enabled: [categories, tags]
