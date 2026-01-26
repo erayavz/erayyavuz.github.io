@@ -2,10 +2,9 @@
 # the default layout is 'page'
 icon: fas fa-info-circle
 order: 4
-image:
-    path: /assets/img/about.jpeg
-    alt: "HackIstanbul, 2021"
 ---
+
+![HackIstanbul, 2021](/assets/img/about.jpeg)
 
 From an early age — and yes, literally since childhood — I’ve always been drawn to breaking things. Toys, computers, systems… if it worked, it was meant to be poked. That curiosity led me into cybersecurity at a very young age, and over time, “learning by breaking” became more than a habit — it became my mindset.
 
