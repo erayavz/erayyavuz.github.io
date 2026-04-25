@@ -6,7 +6,7 @@ categories: [AISec]
 tags: [AI, Horizontal]
 toc: true
 image:
-    path: /assets/AISec_1/muhammed_ali.jpg
+    path: /assets/muhammed_ali.jpg
 ---
 
 I have been working professionally in the cybersecurity field since 2019. Before sharing my own thoughts, I want to talk a little about what I have done. I will connect the story at the end.
