@@ -33,8 +33,6 @@ SOC and pentesting are two different vertical areas of expertise. In fact, they 
 
 But if you are a consultant and you have limited time, you have to do and know everything. The people who have walked this path will understand this best.
 
-When doing a pentest, for example, the time lost in the recon phase has now decreased a lot. I even have my own agents now, and they can find vulnerabilities according to the OWASP Top 10 better than me. And they do this for almost 100 dollars per month.
-
 We need to accept this: LLMs are better than us, and they will become even better.
 
 So, should we still have a vertical specialization? Or should we move horizontally and add multiple domains to our knowledge pool by combining them both in theory and practice?
